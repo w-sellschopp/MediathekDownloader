@@ -18,8 +18,9 @@ Ein macOS-Programm zum Herunterladen von Filmen und Serien von MediathekViewWeb.
 
 ## Installation
 
-1. Kopieren Sie `MediathekDownloader.app` in den Ordner `/Applications`
-2. Starten Sie die App aus dem Applications-Ordner
+1. Laden Sie den gesamten Code als ZIP herunter
+2. Kopieren Sie `MediathekDownloader.app` aus 'dist' in den Ordner `/Applications`
+3. Starten Sie die App aus dem Applications-Ordner
 
 ## Verwendung
 
